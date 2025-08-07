@@ -1,0 +1,31 @@
+# Vercel-optimized dependencies for AskMaven Backend
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.3
+python-multipart==0.0.6
+python-dotenv==1.0.0
+
+# Database
+pymysql==1.1.0
+
+# Web Scraping
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==5.1.0
+urllib3==2.1.0
+
+# Google Gemini AI
+google-generativeai==0.3.2
+
+# Security & Auth
+python-jose==3.3.0
+cryptography>=41.0.0
+passlib==1.7.4
+bcrypt==4.1.2
+
+# HTTP Client
+httpx==0.25.2
+
+# Utilities
+python-dateutil==2.8.2
+aiofiles==23.2.1
