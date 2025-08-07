@@ -7,12 +7,14 @@ python-dotenv==1.0.0
 
 # Database
 pymysql==1.1.0
+sqlalchemy==2.0.23
 
 # Web Scraping
 requests==2.31.0
 beautifulsoup4==4.12.2
 lxml==5.1.0
 urllib3==2.1.0
+selenium==4.15.2
 
 # Google Gemini AI
 google-generativeai==0.3.2
